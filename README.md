@@ -7,9 +7,9 @@
 
   <h2 align="center">JayLab- Hospital Website</h2>
 
-JayLabis a fully responsive hospital website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+JayLab is a fully responsive hospital website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-<a href="https://johnelsaphiree.github.io/jaylab/"><strong>➥ Live Demo</strong></a>
+<a href="https://jaylab.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
